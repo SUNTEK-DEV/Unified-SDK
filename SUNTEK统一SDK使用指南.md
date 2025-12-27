@@ -26,10 +26,10 @@ SUNTEK 统一 SDK 是一个封装了多种设备 API 的统一接口库，开发
 
 ### 支持的设备
 
-- C9D
+  
 - SK8 (3576SE)
 - FS8 / FS10
-- SC1 / LP
+- SC1 / 
 - FA8 / FA10
 
 ---
@@ -182,7 +182,7 @@ Log.d("SDK", "设备信息: " + deviceInfo);
 ##### `String getDeviceModel()`
 获取设备型号。
 
-**返回值：** 设备型号字符串（如 "C9D", "SK8" 等）
+**返回值：** 设备型号字符串（如 , "SK8" 等）
 
 **示例：**
 ```java
@@ -979,7 +979,7 @@ public class MyApplication extends Application {
 
 ### v1.0.0 (2024-12-06)
 - 初始版本发布
-- 支持 C9D、SK8 等设备
+- 支持 SK8 等设备
 - 实现设备信息获取、相机控制、二维码扫描等基础功能
 
 ---
@@ -988,9 +988,9 @@ public class MyApplication extends Application {
 
 如有问题或建议，请联系：
 
-- **技术支持邮箱**: sdk@suntek.cloud
+- **技术支持邮箱**: xdn@suntek.cloud
 - **文档版本**: v1.0.0
-- **最后更新**: 2024-12-06
+- **最后更新**: 2025-12-27
 
 ---
 
