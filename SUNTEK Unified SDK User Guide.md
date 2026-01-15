@@ -89,7 +89,7 @@ Add dependency in your project's `build.gradle` file:
 ```gradle
 dependencies {
     // Add unified SDK AAR
-    implementation files('libs/SUNTEKCustomerAPISDK-release.aar')
+    implementation('com.github.SUNTEK-DEV:SUNTEKCustomerAPISDK:4.0')
     
     // Or use Maven repository (if configured)
     // implementation 'com.suntek:unified-sdk:1.0.0'
