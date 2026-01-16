@@ -89,7 +89,7 @@ if (InitSDK.isCurrentDeviceSupported()) {
 ```gradle
 dependencies {
     // 添加统一 SDK AAR
-    implementation('com.github.SUNTEK-DEV:SUNTEKCustomerAPISDK:4.0')
+    api implementation('com.github.SUNTEK-DEV:SUNTEKCustomerAPISDK:4.0')
     
     // 或者使用 Maven 仓库（如果已配置）
     // implementation 'com.suntek:unified-sdk:1.0.0'
