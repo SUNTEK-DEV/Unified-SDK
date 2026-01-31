@@ -29,7 +29,7 @@ SUNTEK Unified SDK is a unified interface library that encapsulates APIs for mul
   
 - SK8 (3576SE)
 - FS8 / FS10
-- SC1 / 
+- SC1 : <a href="./SC1/">Click me to jump to the SC1 subdirectory</a> 
 - FA8 / FA10
 
 ---
