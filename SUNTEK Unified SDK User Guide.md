@@ -24,13 +24,13 @@ SUNTEK Unified SDK is a unified interface library that encapsulates APIs for mul
 - **Rich Features**: Supports device information retrieval, camera control, QR code scanning, and more
 - **Easy Integration**: Simple initialization process, clear API design
 
-### Supported Devices
+### Supported Devices Model
 
   
 - SK8 (3576SE)
 - FS8 / FS10
 - SC1 : <a href="./SC1/">Click me to jump to the SC1 subdirectory</a> 
-- FA8 / FA10
+- FA8andFA10 : <a href="./FA8andFA10/">Click me to jump to the FA8andFA10 subdirectory</a>
 
 ---
 
