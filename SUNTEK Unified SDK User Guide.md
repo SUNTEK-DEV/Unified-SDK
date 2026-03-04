@@ -30,7 +30,7 @@ SUNTEK Unified SDK is a unified interface library that encapsulates APIs for mul
 - SK8 (3576SE)
 - FS8 / FS10
 - SC1 : <a href="./SC1/">Click me to jump to the SC1 subdirectory</a> 
-- FA8andFA10 : <a href="./FA8andFA10/">Click me to jump to the FA8andFA10 subdirectory</a>
+- FA-Serier : <a href="https://github.com/SUNTEK-DEV/FA-Series/tree/main">Click me to jump to the FA-serier repository</a>
 
 ---
 
