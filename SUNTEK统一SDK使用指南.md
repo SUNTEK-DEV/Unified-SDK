@@ -27,7 +27,7 @@ SUNTEK 统一 SDK 是一个封装了多种设备 API 的统一接口库，开发
 ### 支持的设备型号
 
   
-- SK8 (3576SE)
+- SK系列 : <a href="https://github.com/SUNTEK-DEV/SK-Series">点击我跳转到 SK 系列仓库</a>
 - FS8 / FS10
 - SC1 : <a href="./SC1/">点击我跳转到SC1子目录</a> 
 - FA系列 : <a href="https://github.com/SUNTEK-DEV/FA-Series/tree/main">点击我跳转到 FA 系列仓库</a>
