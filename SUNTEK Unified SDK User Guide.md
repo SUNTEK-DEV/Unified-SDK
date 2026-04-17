@@ -31,6 +31,7 @@ SUNTEK Unified SDK is a unified interface library that encapsulates APIs for mul
 - FS8 / FS10
 - SC1 : <a href="./SC1/">Click me to jump to the SC1 subdirectory</a> 
 - FA-Serier : <a href="https://github.com/SUNTEK-DEV/FA-Series/tree/main">Click me to jump to the FA-serier repository</a>
+- FA5-Serier : <a href="https://github.com/SUNTEK-DEV/FA5-Series">Click me to jump to the FA5-serier repository</a>
 
 ---
 

@@ -31,7 +31,7 @@ SUNTEK 统一 SDK 是一个封装了多种设备 API 的统一接口库，开发
 - FS8 / FS10
 - SC1 : <a href="./SC1/">点击我跳转到SC1子目录</a> 
 - FA系列 : <a href="https://github.com/SUNTEK-DEV/FA-Series/tree/main">点击我跳转到 FA 系列仓库</a>
-
+- FA5系列 : <a href="https://github.com/SUNTEK-DEV/FA5-Series">点击我跳转到 FA5 系列仓库</a>
 ---
 
 ## 快速开始
