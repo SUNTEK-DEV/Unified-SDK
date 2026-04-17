@@ -32,7 +32,7 @@ SUNTEK Unified SDK is a unified interface library that encapsulates APIs for mul
 - SC1 : <a href="./SC1/">Click me to jump to the SC1 subdirectory</a> 
 - FA-Serier : <a href="https://github.com/SUNTEK-DEV/FA-Series/tree/main">Click me to jump to the FA-serier repository</a>
 - FA5-Serier : <a href="https://github.com/SUNTEK-DEV/FA5-Series">Click me to jump to the FA5-serier repository</a>
-
+- FL5 : <a href="https://github.com/SUNTEK-DEV/FL5">Click me to jump to the FL5 repository</a>
 ---
 
 ## Quick Start
