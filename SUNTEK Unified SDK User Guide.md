@@ -24,7 +24,7 @@ SUNTEK Unified SDK is a unified interface library that encapsulates APIs for mul
 - **Rich Features**: Supports device information retrieval, camera control, QR code scanning, and more
 - **Easy Integration**: Simple initialization process, clear API design
 
-### Supported Devices Model
+### Supported Devices Model  Key focus！！！ 🏁  Please take a look first 👀 here 🚩🚩🚩🚩🚩🚩🚩🚩
 
   
 - SK-Serier : <a href="https://github.com/SUNTEK-DEV/SK-Series">Click me to jump to the SK-serier repository</a>
