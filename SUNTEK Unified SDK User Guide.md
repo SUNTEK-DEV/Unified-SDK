@@ -24,17 +24,26 @@ SUNTEK Unified SDK is a unified interface library that encapsulates APIs for mul
 - **Rich Features**: Supports device information retrieval, camera control, QR code scanning, and more
 - **Easy Integration**: Simple initialization process, clear API design
 
+<<<<<<< HEAD
 ### Supported Devices Model  Key focus！！！ 🏁  Please take a look first 👀 here 🚩🚩🚩🚩🚩🚩🚩🚩
 
   
 - SK-Serier : <a href="https://github.com/SUNTEK-DEV/SK-Series">Click me to jump to the SK-serier repository</a>
 - FS8 / FS10
 - SC1 : <a href="./SC1/">Click me to jump to the SC1 subdirectory</a> 
+=======
+### Supported Devices Model  Key focus！！！ 🏁  Please take a look first 👀 here 🚩🚩🚩🚩🚩🚩🚩🚩      --------------------------------------------
+                                                                                                                                                         |
+                                                                                                                                                         |
+- SK-Serier : <a href="https://github.com/SUNTEK-DEV/SK-Series">Click me to jump to the SK-serier repository</a>                                         |
+- FS8 / FS10                                                                                                                                             |
+- SC1 : <a href="https://github.com/SUNTEK-DEV/SC1">Click me to jump to the SC1 subdirectory</a>                                                        ⬇️
+
 - FA-Serier : <a href="https://github.com/SUNTEK-DEV/FA-Series/tree/main">Click me to jump to the FA-serier repository</a>
 - FA5-Serier : <a href="https://github.com/SUNTEK-DEV/FA5-Series">Click me to jump to the FA5-serier repository</a>
 - FL5 : <a href="https://github.com/SUNTEK-DEV/FL5">Click me to jump to the FL5 repository</a>
 ---
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Quick Start
 
 ### 1. Get SDK Instance
